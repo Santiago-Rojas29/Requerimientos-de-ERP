@@ -65,6 +65,8 @@ header{
         font-weight: 300;
         text-decoration: none;
         margin-right: 10px;
+        column-count: 5;
+        
         
         
     }
@@ -136,10 +138,19 @@ header{
 
 
     }
-    .contentenido-textos p{
+    .contenido-textos p{
         padding: 0px 0px 30px 15px;
         font-weight: 300;
-        text-align: center;
+        text-align: left;
+        font-size: 15px;
     }
+
+.contenedor-nuestra-propuesta p{
+    font-size: 18px;
+
+
+
+}
+
 
 
