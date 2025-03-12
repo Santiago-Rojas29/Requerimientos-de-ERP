@@ -1,0 +1,57 @@
+body {background-color: rgb(16, 33, 63);
+font-family: sans-serif;
+margin: 0;
+padding: 0;
+color: #fff;
+} 
+
+.contenedor {background-image: url(img/foto\ 1.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;}
+
+.contenido {
+background-color: rgba (0, 0, 0, 0.5);
+padding: 20px;
+border: radius 5px;}
+
+
+main{width: 800px;
+height: 800px;
+background-color: rgb(9, 18, 53);
+border: 5px solid #fff;
+border-radius: 25px;
+margin: 0 auto;
+}
+
+h1 {color: whitesmoke;
+    text-align: center;
+font-family: sans-serif;}
+
+h2 {color: whitesmoke;
+    font-family: sans-serif;
+text-align: center;
+ }
+
+
+section {color: rgb(82, 110, 217);
+border: 2px solid;
+border-radius: 15px;
+font-family: sans-serif;
+width: 797px;
+height: 178px;
+text-align: center;
+}
+
+.texto
+{
+padding: 268.02px;
+border: none;
+border-radius: 20px;
+cursor: pointer;
+font-size: 16px;}
