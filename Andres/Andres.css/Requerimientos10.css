@@ -11,7 +11,7 @@ box-shadow: 0px 0px 20px white;
 body{
     background-color: #10213F;
 }
-#requerimiento{
+#requerimiento10{
     background-color: cornflowerblue;
     border-radius: 10px;
     width: 500px;
@@ -46,7 +46,7 @@ body{
         box-shadow: 0px 0px 20px white;
         text-decoration: none;
     }   
-    #Volver{
+    #Volver10{
         background-color: white;
         padding: 10px 20px;
         border-radius: 8px;
@@ -55,11 +55,153 @@ body{
         text-decoration: none;
     }   
 
+    body{
+        background-color: #10213F;
+    }
+    
+    
+    
+    
+    #requerimiento11{
+        background-color: cornflowerblue;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    box-shadow: 0px 0px 20px white;
+    }
+    
+    #producto{
+        color: #88a9c3;
+    }
+    
+    #mana{
+        background-color: #091235;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px white;
+        text-align: left; 
+        width: 1300px;
+        color: #88a9c3;
+        height: 50px;
+    }
+    
+    
+     
+    #Volver11{
+        background-color: white;
+        padding: 10px 20px;
+        border-radius: 8px;
+        
+        box-shadow: 0px 0px 20px white;
+        text-decoration: none;
+    }   
 
+    body{
+        background-color: #10213F;
+    }
+    #requerimiento12{
+        background-color: cornflowerblue;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    box-shadow: 0px 0px 20px white;
+    }
+    
+    #stock{
+        color: #88a9c3;
+    }
+    
+    #adm{
+        background-color: #091235;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px white;
+        text-align: left; 
+        width: 1300px;
+        color: #88a9c3;
+        height: 50px;
+    }
+    
+    
+     
+    #Volver12{
+        background-color: white;
+        padding: 10px 20px;
+        border-radius: 8px;
+        
+        box-shadow: 0px 0px 20px white;
+        text-decoration: none;
+    }   
 
+    body{
+        background-color: #10213F;
+    }
+    #requerimiento13{
+        background-color: cornflowerblue;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    box-shadow: 0px 0px 20px white;
+    }
+    
+    #buscador{
+        color: #88a9c3;
+    }
+    
+    #herra{
+        background-color: #091235;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px white;
+        text-align: left; 
+        width: 1300px;
+        color: #88a9c3;
+        height: 50px;
+    }
+    
+    
+    #Volver13{
+        background-color: white;
+        padding: 10px 20px;
+        border-radius: 8px;
+        
+        box-shadow: 0px 0px 20px white;
+        text-decoration: none;
+    }   
 
-
-
-
-
+    body{
+        background-color: #10213F;
+    }
+    #requerimiento14{
+        background-color: cornflowerblue;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    box-shadow: 0px 0px 20px white;
+    }
+    
+    #modulo{
+        color: #88a9c3;
+    }
+    
+    #ultima{
+        background-color: #091235;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px white;
+        text-align: left; 
+        width: 1300px;
+        color: #88a9c3;
+        height: 30px;
+    }
+    
+    
+    #Volver14{
+        background-color: white;
+        padding: 10px 20px;
+        border-radius: 8px;
+        
+        box-shadow: 0px 0px 20px white;
+        text-decoration: none;
+    }   
 
