@@ -1,7 +1,7 @@
 body{
     background-color: #10213F;
 }
-#requerimientooo{
+#requerimiento12{
     background-color: cornflowerblue;
 border-radius: 10px;
 width: 500px;
@@ -14,7 +14,7 @@ box-shadow: 0px 0px 20px white;
     color: #88a9c3;
 }
 
-#manaa{
+#adm{
     background-color: #091235;
     border-radius: 5px;
     box-shadow: 0px 0px 10px white;
@@ -24,15 +24,9 @@ box-shadow: 0px 0px 20px white;
     height: 50px;
 }
 
-#siguiente{
-    background-color: white;
-    padding: 10px 20px;
-    border-radius: 8px;
-    float: right ;
-    box-shadow: 0px 0px 20px white;
-    text-decoration: none;
-}   
-#Volver{
+
+ 
+#Volver12{
     background-color: white;
     padding: 10px 20px;
     border-radius: 8px;
