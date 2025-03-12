@@ -1,7 +1,7 @@
 body{
     background-color: #10213F;
 }
-#requerimientooo{
+#requerimiento13{
     background-color: cornflowerblue;
 border-radius: 10px;
 width: 500px;
@@ -10,11 +10,11 @@ text-align: center;
 box-shadow: 0px 0px 20px white;
 }
 
-#stock{
+#buscador{
     color: #88a9c3;
 }
 
-#manaa{
+#herra{
     background-color: #091235;
     border-radius: 5px;
     box-shadow: 0px 0px 10px white;
@@ -24,15 +24,8 @@ box-shadow: 0px 0px 20px white;
     height: 50px;
 }
 
-#siguiente{
-    background-color: white;
-    padding: 10px 20px;
-    border-radius: 8px;
-    float: right ;
-    box-shadow: 0px 0px 20px white;
-    text-decoration: none;
-}   
-#Volver{
+
+#Volver13{
     background-color: white;
     padding: 10px 20px;
     border-radius: 8px;
