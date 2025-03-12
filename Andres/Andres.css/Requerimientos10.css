@@ -175,6 +175,12 @@ body{
         height: 50px;
     }
     
+    #imagen4{
+        width: 600px;
+        height: 390px;
+        border-radius: 20px;
+        box-shadow: 0px 0px 10px white;  
+    }
     
     #Volver13{
         background-color: white;
